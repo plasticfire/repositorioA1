@@ -34,6 +34,7 @@ public class Calculadora extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Prelo Bold", 1, 24)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(255, 153, 255));
         jLabel1.setText("Calculadora de raiz cuadrada");
 
         jButton1.setText("Calcular");
